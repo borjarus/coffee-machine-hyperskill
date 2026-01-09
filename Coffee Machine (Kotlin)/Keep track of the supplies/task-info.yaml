@@ -4,6 +4,7 @@ files:
     visible: true
     learner_created: false
   - name: test/CoffeeMachineTest.java
+    visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/projects/67/stages/364/implement#comment
 status: Unchecked
